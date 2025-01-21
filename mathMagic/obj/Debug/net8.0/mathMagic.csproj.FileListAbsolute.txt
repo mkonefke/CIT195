@@ -1,0 +1,14 @@
+/Users/maky/Documents/CIT195/mathMagic/bin/Debug/net8.0/mathMagic
+/Users/maky/Documents/CIT195/mathMagic/bin/Debug/net8.0/mathMagic.deps.json
+/Users/maky/Documents/CIT195/mathMagic/bin/Debug/net8.0/mathMagic.runtimeconfig.json
+/Users/maky/Documents/CIT195/mathMagic/bin/Debug/net8.0/mathMagic.dll
+/Users/maky/Documents/CIT195/mathMagic/bin/Debug/net8.0/mathMagic.pdb
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.dll
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/refint/mathMagic.dll
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.pdb
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/mathMagic.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/mathMagic/obj/Debug/net8.0/ref/mathMagic.dll

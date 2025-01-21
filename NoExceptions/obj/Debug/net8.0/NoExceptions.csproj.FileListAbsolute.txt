@@ -1,0 +1,14 @@
+/Users/maky/Documents/CIT195/NoExceptions/bin/Debug/net8.0/NoExceptions
+/Users/maky/Documents/CIT195/NoExceptions/bin/Debug/net8.0/NoExceptions.deps.json
+/Users/maky/Documents/CIT195/NoExceptions/bin/Debug/net8.0/NoExceptions.runtimeconfig.json
+/Users/maky/Documents/CIT195/NoExceptions/bin/Debug/net8.0/NoExceptions.dll
+/Users/maky/Documents/CIT195/NoExceptions/bin/Debug/net8.0/NoExceptions.pdb
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.dll
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/refint/NoExceptions.dll
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.pdb
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/NoExceptions.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/NoExceptions/obj/Debug/net8.0/ref/NoExceptions.dll
