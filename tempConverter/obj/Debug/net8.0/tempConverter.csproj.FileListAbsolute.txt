@@ -12,3 +12,4 @@
 /Users/maky/Documents/CIT195/tempConverter/obj/Debug/net8.0/tempConverter.pdb
 /Users/maky/Documents/CIT195/tempConverter/obj/Debug/net8.0/tempConverter.genruntimeconfig.cache
 /Users/maky/Documents/CIT195/tempConverter/obj/Debug/net8.0/ref/tempConverter.dll
+/Users/maky/Documents/CIT195/tempConverter/obj/Debug/net8.0/tempConverter.sourcelink.json

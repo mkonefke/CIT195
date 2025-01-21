@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/tempConverter2/bin/Debug/net8.0/tempConverter2
+/Users/maky/Documents/CIT195/tempConverter2/bin/Debug/net8.0/tempConverter2.deps.json
+/Users/maky/Documents/CIT195/tempConverter2/bin/Debug/net8.0/tempConverter2.runtimeconfig.json
+/Users/maky/Documents/CIT195/tempConverter2/bin/Debug/net8.0/tempConverter2.dll
+/Users/maky/Documents/CIT195/tempConverter2/bin/Debug/net8.0/tempConverter2.pdb
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.sourcelink.json
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.dll
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/refint/tempConverter2.dll
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.pdb
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/tempConverter2.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/tempConverter2/obj/Debug/net8.0/ref/tempConverter2.dll
