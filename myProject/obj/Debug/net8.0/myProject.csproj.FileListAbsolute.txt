@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.sourcelink.json
+/Users/maky/Documents/CIT195/myProject/bin/Debug/net8.0/myProject
+/Users/maky/Documents/CIT195/myProject/bin/Debug/net8.0/myProject.deps.json
+/Users/maky/Documents/CIT195/myProject/bin/Debug/net8.0/myProject.runtimeconfig.json
+/Users/maky/Documents/CIT195/myProject/bin/Debug/net8.0/myProject.dll
+/Users/maky/Documents/CIT195/myProject/bin/Debug/net8.0/myProject.pdb
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.dll
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/refint/myProject.dll
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.pdb
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/myProject.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/myProject/obj/Debug/net8.0/ref/myProject.dll

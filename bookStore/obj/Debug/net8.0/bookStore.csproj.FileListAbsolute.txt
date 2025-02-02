@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.sourcelink.json
+/Users/maky/Documents/CIT195/bookStore/bin/Debug/net8.0/bookStore
+/Users/maky/Documents/CIT195/bookStore/bin/Debug/net8.0/bookStore.deps.json
+/Users/maky/Documents/CIT195/bookStore/bin/Debug/net8.0/bookStore.runtimeconfig.json
+/Users/maky/Documents/CIT195/bookStore/bin/Debug/net8.0/bookStore.dll
+/Users/maky/Documents/CIT195/bookStore/bin/Debug/net8.0/bookStore.pdb
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.dll
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/refint/bookStore.dll
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.pdb
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/bookStore.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/bookStore/obj/Debug/net8.0/ref/bookStore.dll
