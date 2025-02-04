@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/FunWithMusic/bin/Debug/net8.0/FunWithMusic
+/Users/maky/Documents/CIT195/FunWithMusic/bin/Debug/net8.0/FunWithMusic.deps.json
+/Users/maky/Documents/CIT195/FunWithMusic/bin/Debug/net8.0/FunWithMusic.runtimeconfig.json
+/Users/maky/Documents/CIT195/FunWithMusic/bin/Debug/net8.0/FunWithMusic.dll
+/Users/maky/Documents/CIT195/FunWithMusic/bin/Debug/net8.0/FunWithMusic.pdb
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.sourcelink.json
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.dll
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/refint/FunWithMusic.dll
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.pdb
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/FunWithMusic.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/FunWithMusic/obj/Debug/net8.0/ref/FunWithMusic.dll

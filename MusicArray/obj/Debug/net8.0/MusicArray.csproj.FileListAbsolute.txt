@@ -1,0 +1,5 @@
+/Users/maky/Documents/CIT195/MusicArray/obj/Debug/net8.0/MusicArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/MusicArray/obj/Debug/net8.0/MusicArray.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/MusicArray/obj/Debug/net8.0/MusicArray.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/MusicArray/obj/Debug/net8.0/MusicArray.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/MusicArray/obj/Debug/net8.0/MusicArray.sourcelink.json
