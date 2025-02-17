@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mathMagic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751dfee3ff3d596d69ee5804e1874c92082aa763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c388749d4175544118fd6732390d1c966aa1e9a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("mathMagic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mathMagic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance
+/Users/maky/Documents/CIT195/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.deps.json
+/Users/maky/Documents/CIT195/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.runtimeconfig.json
+/Users/maky/Documents/CIT195/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.dll
+/Users/maky/Documents/CIT195/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.pdb
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.sourcelink.json
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.dll
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/refint/AnimalInheritance.dll
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.pdb
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/AnimalInheritance/obj/Debug/net8.0/ref/AnimalInheritance.dll

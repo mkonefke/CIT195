@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/bin/Debug/net8.0/ProtectedMultipleObjects
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/bin/Debug/net8.0/ProtectedMultipleObjects.deps.json
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/bin/Debug/net8.0/ProtectedMultipleObjects.runtimeconfig.json
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/bin/Debug/net8.0/ProtectedMultipleObjects.dll
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/bin/Debug/net8.0/ProtectedMultipleObjects.pdb
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.sourcelink.json
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.dll
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/refint/ProtectedMultipleObjects.dll
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.pdb
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ProtectedMultipleObjects.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/ProtectedMultipleObjects/obj/Debug/net8.0/ref/ProtectedMultipleObjects.dll

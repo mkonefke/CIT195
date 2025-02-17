@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.sourcelink.json
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.deps.json
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.runtimeconfig.json
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.dll
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.pdb
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.dll
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/refint/PrivateMultipleObjects.dll
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.pdb
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/PrivateMultipleObjects/obj/Debug/net8.0/ref/PrivateMultipleObjects.dll
