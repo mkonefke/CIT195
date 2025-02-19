@@ -1,0 +1,5 @@
+/Users/maky/Documents/CIT195/CatInfo/obj/Debug/net8.0/CatInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/CatInfo/obj/Debug/net8.0/CatInfo.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/CatInfo/obj/Debug/net8.0/CatInfo.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/CatInfo/obj/Debug/net8.0/CatInfo.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/CatInfo/obj/Debug/net8.0/CatInfo.sourcelink.json

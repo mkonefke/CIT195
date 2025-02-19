@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/ClubInterface/bin/Debug/net8.0/ClubInterface
+/Users/maky/Documents/CIT195/ClubInterface/bin/Debug/net8.0/ClubInterface.deps.json
+/Users/maky/Documents/CIT195/ClubInterface/bin/Debug/net8.0/ClubInterface.runtimeconfig.json
+/Users/maky/Documents/CIT195/ClubInterface/bin/Debug/net8.0/ClubInterface.dll
+/Users/maky/Documents/CIT195/ClubInterface/bin/Debug/net8.0/ClubInterface.pdb
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.sourcelink.json
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.dll
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/refint/ClubInterface.dll
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.pdb
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ClubInterface.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/ClubInterface/obj/Debug/net8.0/ref/ClubInterface.dll

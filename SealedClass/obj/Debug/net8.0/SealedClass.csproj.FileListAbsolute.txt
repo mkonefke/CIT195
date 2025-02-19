@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/SealedClass/bin/Debug/net8.0/SealedClass
+/Users/maky/Documents/CIT195/SealedClass/bin/Debug/net8.0/SealedClass.deps.json
+/Users/maky/Documents/CIT195/SealedClass/bin/Debug/net8.0/SealedClass.runtimeconfig.json
+/Users/maky/Documents/CIT195/SealedClass/bin/Debug/net8.0/SealedClass.dll
+/Users/maky/Documents/CIT195/SealedClass/bin/Debug/net8.0/SealedClass.pdb
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.sourcelink.json
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.dll
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/refint/SealedClass.dll
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.pdb
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/SealedClass.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/SealedClass/obj/Debug/net8.0/ref/SealedClass.dll

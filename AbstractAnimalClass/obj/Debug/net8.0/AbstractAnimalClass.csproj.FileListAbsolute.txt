@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass
+/Users/maky/Documents/CIT195/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.deps.json
+/Users/maky/Documents/CIT195/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.runtimeconfig.json
+/Users/maky/Documents/CIT195/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.dll
+/Users/maky/Documents/CIT195/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.pdb
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.sourcelink.json
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.dll
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/refint/AbstractAnimalClass.dll
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.pdb
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/AbstractAnimalClass/obj/Debug/net8.0/ref/AbstractAnimalClass.dll
