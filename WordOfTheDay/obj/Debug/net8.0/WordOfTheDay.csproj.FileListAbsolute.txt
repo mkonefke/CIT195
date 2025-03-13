@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay
+/Users/maky/Documents/CIT195/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.deps.json
+/Users/maky/Documents/CIT195/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.runtimeconfig.json
+/Users/maky/Documents/CIT195/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.dll
+/Users/maky/Documents/CIT195/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.pdb
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.sourcelink.json
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.dll
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/refint/WordOfTheDay.dll
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.pdb
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/WordOfTheDay/obj/Debug/net8.0/ref/WordOfTheDay.dll

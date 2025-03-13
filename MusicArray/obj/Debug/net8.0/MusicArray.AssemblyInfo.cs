@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c0c74443b77b677b071c0792f31cf0aa6667c6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f0b62a935965824b848e812538ecb2497c7876")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

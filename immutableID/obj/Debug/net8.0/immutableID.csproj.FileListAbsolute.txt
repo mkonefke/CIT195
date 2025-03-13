@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/immutableID/bin/Debug/net8.0/immutableID
+/Users/maky/Documents/CIT195/immutableID/bin/Debug/net8.0/immutableID.deps.json
+/Users/maky/Documents/CIT195/immutableID/bin/Debug/net8.0/immutableID.runtimeconfig.json
+/Users/maky/Documents/CIT195/immutableID/bin/Debug/net8.0/immutableID.dll
+/Users/maky/Documents/CIT195/immutableID/bin/Debug/net8.0/immutableID.pdb
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.sourcelink.json
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.dll
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/refint/immutableID.dll
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.pdb
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/immutableID.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/immutableID/obj/Debug/net8.0/ref/immutableID.dll

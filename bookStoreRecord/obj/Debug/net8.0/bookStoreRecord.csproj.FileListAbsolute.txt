@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord
+/Users/maky/Documents/CIT195/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.deps.json
+/Users/maky/Documents/CIT195/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.runtimeconfig.json
+/Users/maky/Documents/CIT195/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.dll
+/Users/maky/Documents/CIT195/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.pdb
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.sourcelink.json
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.dll
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/refint/bookStoreRecord.dll
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.pdb
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/bookStoreRecord/obj/Debug/net8.0/ref/bookStoreRecord.dll

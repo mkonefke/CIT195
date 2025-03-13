@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/GenericAnimalClass/bin/Debug/net8.0/GenericAnimalClass
+/Users/maky/Documents/CIT195/GenericAnimalClass/bin/Debug/net8.0/GenericAnimalClass.deps.json
+/Users/maky/Documents/CIT195/GenericAnimalClass/bin/Debug/net8.0/GenericAnimalClass.runtimeconfig.json
+/Users/maky/Documents/CIT195/GenericAnimalClass/bin/Debug/net8.0/GenericAnimalClass.dll
+/Users/maky/Documents/CIT195/GenericAnimalClass/bin/Debug/net8.0/GenericAnimalClass.pdb
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.sourcelink.json
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.dll
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/refint/GenericAnimalClass.dll
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.pdb
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/GenericAnimalClass.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/GenericAnimalClass/obj/Debug/net8.0/ref/GenericAnimalClass.dll

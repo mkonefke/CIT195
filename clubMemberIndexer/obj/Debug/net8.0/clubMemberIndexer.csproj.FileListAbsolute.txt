@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer
+/Users/maky/Documents/CIT195/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.deps.json
+/Users/maky/Documents/CIT195/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.runtimeconfig.json
+/Users/maky/Documents/CIT195/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.dll
+/Users/maky/Documents/CIT195/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.pdb
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.sourcelink.json
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.dll
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/refint/clubMemberIndexer.dll
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.pdb
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/clubMemberIndexer/obj/Debug/net8.0/ref/clubMemberIndexer.dll
