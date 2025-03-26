@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/DictionaryCollection/bin/Debug/net8.0/DictionaryCollection
+/Users/maky/Documents/CIT195/DictionaryCollection/bin/Debug/net8.0/DictionaryCollection.deps.json
+/Users/maky/Documents/CIT195/DictionaryCollection/bin/Debug/net8.0/DictionaryCollection.runtimeconfig.json
+/Users/maky/Documents/CIT195/DictionaryCollection/bin/Debug/net8.0/DictionaryCollection.dll
+/Users/maky/Documents/CIT195/DictionaryCollection/bin/Debug/net8.0/DictionaryCollection.pdb
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.sourcelink.json
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.dll
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/refint/DictionaryCollection.dll
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.pdb
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/DictionaryCollection.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/DictionaryCollection/obj/Debug/net8.0/ref/DictionaryCollection.dll

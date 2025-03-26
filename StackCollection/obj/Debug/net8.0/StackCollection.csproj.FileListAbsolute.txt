@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.sourcelink.json
+/Users/maky/Documents/CIT195/StackCollection/bin/Debug/net8.0/StackCollection
+/Users/maky/Documents/CIT195/StackCollection/bin/Debug/net8.0/StackCollection.deps.json
+/Users/maky/Documents/CIT195/StackCollection/bin/Debug/net8.0/StackCollection.runtimeconfig.json
+/Users/maky/Documents/CIT195/StackCollection/bin/Debug/net8.0/StackCollection.dll
+/Users/maky/Documents/CIT195/StackCollection/bin/Debug/net8.0/StackCollection.pdb
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.dll
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/refint/StackCollection.dll
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.pdb
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/StackCollection.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/StackCollection/obj/Debug/net8.0/ref/StackCollection.dll

@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/QueueCollection/bin/Debug/net8.0/QueueCollection
+/Users/maky/Documents/CIT195/QueueCollection/bin/Debug/net8.0/QueueCollection.deps.json
+/Users/maky/Documents/CIT195/QueueCollection/bin/Debug/net8.0/QueueCollection.runtimeconfig.json
+/Users/maky/Documents/CIT195/QueueCollection/bin/Debug/net8.0/QueueCollection.dll
+/Users/maky/Documents/CIT195/QueueCollection/bin/Debug/net8.0/QueueCollection.pdb
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.sourcelink.json
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.dll
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/refint/QueueCollection.dll
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.pdb
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/QueueCollection.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/QueueCollection/obj/Debug/net8.0/ref/QueueCollection.dll

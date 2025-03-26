@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/LinkedList/bin/Debug/net8.0/LinkedList
+/Users/maky/Documents/CIT195/LinkedList/bin/Debug/net8.0/LinkedList.deps.json
+/Users/maky/Documents/CIT195/LinkedList/bin/Debug/net8.0/LinkedList.runtimeconfig.json
+/Users/maky/Documents/CIT195/LinkedList/bin/Debug/net8.0/LinkedList.dll
+/Users/maky/Documents/CIT195/LinkedList/bin/Debug/net8.0/LinkedList.pdb
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.sourcelink.json
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.dll
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/refint/LinkedList.dll
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.pdb
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/LinkedList.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/LinkedList/obj/Debug/net8.0/ref/LinkedList.dll
