@@ -1,0 +1,5 @@
+/Users/maky/Documents/CIT195/Audit/obj/Debug/net8.0/Audit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/Audit/obj/Debug/net8.0/Audit.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/Audit/obj/Debug/net8.0/Audit.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/Audit/obj/Debug/net8.0/Audit.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/Audit/obj/Debug/net8.0/Audit.sourcelink.json

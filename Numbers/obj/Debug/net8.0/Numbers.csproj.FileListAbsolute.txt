@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.sourcelink.json
+/Users/maky/Documents/CIT195/Numbers/bin/Debug/net8.0/Numbers
+/Users/maky/Documents/CIT195/Numbers/bin/Debug/net8.0/Numbers.deps.json
+/Users/maky/Documents/CIT195/Numbers/bin/Debug/net8.0/Numbers.runtimeconfig.json
+/Users/maky/Documents/CIT195/Numbers/bin/Debug/net8.0/Numbers.dll
+/Users/maky/Documents/CIT195/Numbers/bin/Debug/net8.0/Numbers.pdb
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.dll
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/refint/Numbers.dll
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.pdb
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/Numbers.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/Numbers/obj/Debug/net8.0/ref/Numbers.dll

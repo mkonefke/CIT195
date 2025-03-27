@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryCollection", "DictionaryCollection\DictionaryCollection.csproj", "{A80ACEDC-8AB7-423D-B192-F37801E20C0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{F2498EC4-7A97-46F1-83BF-F25FEBD65608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audit", "Audit\Audit.csproj", "{281031CA-DB3A-4BE2-A2B1-7150BCEF5193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +190,13 @@ Global
 		{A80ACEDC-8AB7-423D-B192-F37801E20C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A80ACEDC-8AB7-423D-B192-F37801E20C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A80ACEDC-8AB7-423D-B192-F37801E20C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2498EC4-7A97-46F1-83BF-F25FEBD65608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2498EC4-7A97-46F1-83BF-F25FEBD65608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2498EC4-7A97-46F1-83BF-F25FEBD65608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2498EC4-7A97-46F1-83BF-F25FEBD65608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281031CA-DB3A-4BE2-A2B1-7150BCEF5193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281031CA-DB3A-4BE2-A2B1-7150BCEF5193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281031CA-DB3A-4BE2-A2B1-7150BCEF5193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281031CA-DB3A-4BE2-A2B1-7150BCEF5193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
