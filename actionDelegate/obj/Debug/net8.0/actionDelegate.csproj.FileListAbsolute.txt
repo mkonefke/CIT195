@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/actionDelegate/bin/Debug/net8.0/actionDelegate
+/Users/maky/Documents/CIT195/actionDelegate/bin/Debug/net8.0/actionDelegate.deps.json
+/Users/maky/Documents/CIT195/actionDelegate/bin/Debug/net8.0/actionDelegate.runtimeconfig.json
+/Users/maky/Documents/CIT195/actionDelegate/bin/Debug/net8.0/actionDelegate.dll
+/Users/maky/Documents/CIT195/actionDelegate/bin/Debug/net8.0/actionDelegate.pdb
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.sourcelink.json
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.dll
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/refint/actionDelegate.dll
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.pdb
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/actionDelegate.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/actionDelegate/obj/Debug/net8.0/ref/actionDelegate.dll

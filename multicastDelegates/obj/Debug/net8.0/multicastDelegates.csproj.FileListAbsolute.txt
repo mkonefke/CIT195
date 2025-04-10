@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/multicastDelegates/bin/Debug/net8.0/multicastDelegates
+/Users/maky/Documents/CIT195/multicastDelegates/bin/Debug/net8.0/multicastDelegates.deps.json
+/Users/maky/Documents/CIT195/multicastDelegates/bin/Debug/net8.0/multicastDelegates.runtimeconfig.json
+/Users/maky/Documents/CIT195/multicastDelegates/bin/Debug/net8.0/multicastDelegates.dll
+/Users/maky/Documents/CIT195/multicastDelegates/bin/Debug/net8.0/multicastDelegates.pdb
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.sourcelink.json
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.dll
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/refint/multicastDelegates.dll
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.pdb
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/multicastDelegates.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/multicastDelegates/obj/Debug/net8.0/ref/multicastDelegates.dll

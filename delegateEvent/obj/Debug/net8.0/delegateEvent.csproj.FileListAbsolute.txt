@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.sourcelink.json
+/Users/maky/Documents/CIT195/delegateEvent/bin/Debug/net8.0/delegateEvent
+/Users/maky/Documents/CIT195/delegateEvent/bin/Debug/net8.0/delegateEvent.deps.json
+/Users/maky/Documents/CIT195/delegateEvent/bin/Debug/net8.0/delegateEvent.runtimeconfig.json
+/Users/maky/Documents/CIT195/delegateEvent/bin/Debug/net8.0/delegateEvent.dll
+/Users/maky/Documents/CIT195/delegateEvent/bin/Debug/net8.0/delegateEvent.pdb
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.dll
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/refint/delegateEvent.dll
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.pdb
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/delegateEvent.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/delegateEvent/obj/Debug/net8.0/ref/delegateEvent.dll
