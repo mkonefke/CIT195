@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/studentGPA/bin/Debug/net8.0/studentGPA
+/Users/maky/Documents/CIT195/studentGPA/bin/Debug/net8.0/studentGPA.deps.json
+/Users/maky/Documents/CIT195/studentGPA/bin/Debug/net8.0/studentGPA.runtimeconfig.json
+/Users/maky/Documents/CIT195/studentGPA/bin/Debug/net8.0/studentGPA.dll
+/Users/maky/Documents/CIT195/studentGPA/bin/Debug/net8.0/studentGPA.pdb
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.sourcelink.json
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.dll
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/refint/studentGPA.dll
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.pdb
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/studentGPA.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/studentGPA/obj/Debug/net8.0/ref/studentGPA.dll

@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/famousPeople/bin/Debug/net8.0/famousPeople
+/Users/maky/Documents/CIT195/famousPeople/bin/Debug/net8.0/famousPeople.deps.json
+/Users/maky/Documents/CIT195/famousPeople/bin/Debug/net8.0/famousPeople.runtimeconfig.json
+/Users/maky/Documents/CIT195/famousPeople/bin/Debug/net8.0/famousPeople.dll
+/Users/maky/Documents/CIT195/famousPeople/bin/Debug/net8.0/famousPeople.pdb
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.sourcelink.json
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.dll
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/refint/famousPeople.dll
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.pdb
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/famousPeople.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/famousPeople/obj/Debug/net8.0/ref/famousPeople.dll
