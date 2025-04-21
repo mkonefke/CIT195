@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tempConverter2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90ce87bcb8a054b23c5d8ade8eeeccef2d3595b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd50da43d106c5a3f78164c835eedc4cdebf041a")]
 [assembly: System.Reflection.AssemblyProductAttribute("tempConverter2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tempConverter2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

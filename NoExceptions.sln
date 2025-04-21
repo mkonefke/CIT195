@@ -75,6 +75,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "famousPeople", "famousPeopl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studentGPA", "studentGPA\studentGPA.csproj", "{7988F9F6-C477-4E06-9492-FB7D5D478152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overload", "overload\overload.csproj", "{8606C9F1-C464-4C62-9417-5279E9ED3061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatorOverload", "operatorOverload\operatorOverload.csproj", "{2E673B6D-C06B-4F9B-8A58-B90D1D57E60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadRace", "ThreadRace\ThreadRace.csproj", "{3E6C496C-8FC0-454C-810D-F351236A3D71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,5 +234,17 @@ Global
 		{7988F9F6-C477-4E06-9492-FB7D5D478152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7988F9F6-C477-4E06-9492-FB7D5D478152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7988F9F6-C477-4E06-9492-FB7D5D478152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8606C9F1-C464-4C62-9417-5279E9ED3061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8606C9F1-C464-4C62-9417-5279E9ED3061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8606C9F1-C464-4C62-9417-5279E9ED3061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8606C9F1-C464-4C62-9417-5279E9ED3061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E673B6D-C06B-4F9B-8A58-B90D1D57E60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E673B6D-C06B-4F9B-8A58-B90D1D57E60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E673B6D-C06B-4F9B-8A58-B90D1D57E60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E673B6D-C06B-4F9B-8A58-B90D1D57E60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6C496C-8FC0-454C-810D-F351236A3D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6C496C-8FC0-454C-810D-F351236A3D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6C496C-8FC0-454C-810D-F351236A3D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6C496C-8FC0-454C-810D-F351236A3D71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
