@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/ThreadRace/bin/Debug/net8.0/ThreadRace
+/Users/maky/Documents/CIT195/ThreadRace/bin/Debug/net8.0/ThreadRace.deps.json
+/Users/maky/Documents/CIT195/ThreadRace/bin/Debug/net8.0/ThreadRace.runtimeconfig.json
+/Users/maky/Documents/CIT195/ThreadRace/bin/Debug/net8.0/ThreadRace.dll
+/Users/maky/Documents/CIT195/ThreadRace/bin/Debug/net8.0/ThreadRace.pdb
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.sourcelink.json
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.dll
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/refint/ThreadRace.dll
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.pdb
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ThreadRace.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/ThreadRace/obj/Debug/net8.0/ref/ThreadRace.dll

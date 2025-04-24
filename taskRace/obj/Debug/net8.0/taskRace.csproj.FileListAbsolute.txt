@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.sourcelink.json
+/Users/maky/Documents/CIT195/taskRace/bin/Debug/net8.0/taskRace
+/Users/maky/Documents/CIT195/taskRace/bin/Debug/net8.0/taskRace.deps.json
+/Users/maky/Documents/CIT195/taskRace/bin/Debug/net8.0/taskRace.runtimeconfig.json
+/Users/maky/Documents/CIT195/taskRace/bin/Debug/net8.0/taskRace.dll
+/Users/maky/Documents/CIT195/taskRace/bin/Debug/net8.0/taskRace.pdb
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.dll
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/refint/taskRace.dll
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.pdb
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/taskRace.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/taskRace/obj/Debug/net8.0/ref/taskRace.dll

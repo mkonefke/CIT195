@@ -1,0 +1,15 @@
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.AssemblyInfoInputs.cache
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.AssemblyInfo.cs
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.csproj.CoreCompileInputs.cache
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.sourcelink.json
+/Users/maky/Documents/CIT195/asyncAwait/bin/Debug/net8.0/asyncAwait
+/Users/maky/Documents/CIT195/asyncAwait/bin/Debug/net8.0/asyncAwait.deps.json
+/Users/maky/Documents/CIT195/asyncAwait/bin/Debug/net8.0/asyncAwait.runtimeconfig.json
+/Users/maky/Documents/CIT195/asyncAwait/bin/Debug/net8.0/asyncAwait.dll
+/Users/maky/Documents/CIT195/asyncAwait/bin/Debug/net8.0/asyncAwait.pdb
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.dll
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/refint/asyncAwait.dll
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.pdb
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/asyncAwait.genruntimeconfig.cache
+/Users/maky/Documents/CIT195/asyncAwait/obj/Debug/net8.0/ref/asyncAwait.dll
